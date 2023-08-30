@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1RiV5dAgh1KZQUBP4z7cU3IeOl-g7gcTr
 """
 
-# This serves as a template which will guide you through the implementation of this task.  It is advised
-# to first read the whole template and get a sense of the overall structure of the code before trying to fill in any of the TODO gaps
-
 # First, we import necessary libraries:
 import numpy as np
 from torchvision import transforms
