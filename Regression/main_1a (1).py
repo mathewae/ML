@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1bk5DEJ85bSq_HYsFL-4cd0DfOsnDdGn7
 """
 
-# This serves as a template which will guide you through the implementation of this task. It is advised
-# to first read the whole template and get a sense of the overall structure of the code before trying to fill in any of the TODO gaps
 # First, we import necessary libraries:
 import pandas as pd
 import numpy as np
